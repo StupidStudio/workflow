@@ -1,0 +1,20 @@
+{
+  "name": "overgaden",
+  "version": "0.0.0",
+  "authors": [
+    "David Adalberth Andersen <david@stupid-studio.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "_/src",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+  },
+  "include": [],
+  "exclude": []
+}
